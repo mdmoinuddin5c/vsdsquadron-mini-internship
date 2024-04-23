@@ -8,3 +8,6 @@ RISCV-GNU-TOOLCHAIN
 iVerilog
 ![iverilog](https://github.com/mdmoinuddin5c/vsdsquadron-mini-internship/assets/85515189/1f1a0145-b975-45c8-b833-80c622a4d72b)
 
+
+GTK Wave
+![gtkwave](https://github.com/mdmoinuddin5c/vsdsquadron-mini-internship/assets/85515189/7c9c0b93-1891-48f5-89f9-b7215d25a85c)
