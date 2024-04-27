@@ -19,3 +19,12 @@
 
 ### GTK Wave
 ![gtkwave](https://github.com/mdmoinuddin5c/vsdsquadron-mini-internship/assets/85515189/7c9c0b93-1891-48f5-89f9-b7215d25a85c)
+
+## TASK 2
+- Add description for each image.
+- Identify instruction type and exact 32-bit instruction code in the instruction type format.
+- Upload the 32-bit pattern on Github
+
+  ### RISC-V base instruction formats showing immediate variants
+  ![RISCV Base instruction formats](https://github.com/mdmoinuddin5c/vsdsquadron-mini-internship/assets/85515189/177d771c-bce2-4bd2-988b-6d66ae179fd7)
+
